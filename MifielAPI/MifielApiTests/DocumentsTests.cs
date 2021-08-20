@@ -10,8 +10,8 @@ namespace MifielApiTests
     [TestFixture]
     public class DocumentsTests
     {
-        const string APP_ID = "7c938f8e2ff2f083d454127bffd7d4c8bc2c2dee";
-        const string APP_SECRET = "1lXeVVMbNe5IH+INgMeQX463fsixeWEMMSLS4WXPwxpR9RwStD3iE4XaNMXbY8YigIxCQP9gb/8xZI3XILN2Rw==";
+        const string APP_ID = "421876b7244e2eb5eaf6bef0386d8b8a0125919c";
+        const string APP_SECRET = "YFAFM9L8UQz8dk0N+ROFORuIYsPv4vlNb7I973xMfi2ooNDDtsjxJq4VVDK7XaM0/EDGM0hdMFxebsUgDNV27g==";
         private static ApiClient _apiClient;
         private static Documents _docs;
         private static string _pdfFilePath;
